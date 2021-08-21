@@ -28,7 +28,7 @@ Crunchbase &nbsp;
 | Feb 4th 2021  | 4.6 Mil       | Venture Round |
 
 &nbsp;
-## Products and Services:
+## Products and Services
 
 The company is geared towards streamlining the real estate transaction process ShelterZoom’s Docuwalk package offers end to end seamless contract management thus eliminating the current fragmented process. 
 DocuWalk platform supports <sup>6,7</sup>
@@ -57,7 +57,7 @@ They are using some of the most advanced technologies like <sup>10</sup>
 
 &nbsp;
 
-## Active Domains:
+## Active Domains
 
 They started as solution provider for real estate domain and now have matured to offer products to various industry groups 
 &nbsp;
@@ -70,7 +70,7 @@ They started as solution provider for real estate domain and now have matured to
 
 &nbsp;
 
-## Past and future innovations:
+## Past and future innovations
 
 Real estate industry has come a long way in the past 10years, from faxing paper contracts to emailing scanned copies to esgin and email delivery of digital copy of a contract. MLS, Access to the property using connected iBoxes for tracking who is going in and out of the property to scheduling appointments from MLS portals. Key thing is that all these components of the process are still disconnected from each other and work perfectly independently of each other. The new technology breakthroughs will help bring seamless integration of the whole process bringing in more accountability, efficiency, easy regulatory oversight and happier clients which inherently are distrustful of each other. Blockchain technology will help ease the never by having transparent transactions.
 
